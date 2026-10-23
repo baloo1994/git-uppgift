@@ -32,11 +32,9 @@
 
 **SVAR**
 
-Arbetsytan är arket på skrivbordet där jag redigerar mina filer, staging är kuvertet där jag lägger dem ändringar jag vill skicka med och commit är som arkivlådan där kuvertet med arket sparas permanent.
+- Arbetsytan är arket på skrivbordet där jag redigerar mina filer, staging är kuvertet där jag lägger dem ändringar jag vill skicka med och commit är som arkivlådan där kuvertet med arket sparas permanent.
 
 - Git protesterar eftersom ändringen fortfarande bara ligger på skrivbordet ("arket"). Kuvertet är alltså tomt då och Git har inget utvalt att lägga i arkivlådan.
-
--
 
 ## Fråga 3: Lådan hemma vs Montern på GitHub
 
