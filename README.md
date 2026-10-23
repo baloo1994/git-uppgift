@@ -36,9 +36,9 @@
 
 - Git protesterar eftersom ändringen fortfarande bara ligger på skrivbordet ("arket"). Kuvertet är alltså tomt då och Git har inget utvalt att lägga i arkivlådan.
 
-## Fråga 3: Lådan hemma vs Montern på GitHub
+# Fråga 3: Lådan hemma vs Montern på GitHub
 
-# För Godkänt (G): Vad är skillnaden mellan mappen på din dator och repot på GitHub, och vad gör kommandot git push?
+## För Godkänt (G): Vad är skillnaden mellan mappen på din dator och repot på GitHub, och vad gör kommandot git push?
 
 **SVAR:**
 
@@ -46,7 +46,7 @@
 
 - git push: Skickar mina commits från det lokala repot upp till GitHub online.
 
-# För Väl Godkänt (VG): Förklara konceptet med de två rummen / minnesytorna (lådan hemma på datorn vs glasmontern på GitHub). Förklara varför git push svarar Everything up-to-date om du har ändrat i koden men glömt att staga och committa innan du kör push.
+## För Väl Godkänt (VG): Förklara konceptet med de två rummen / minnesytorna (lådan hemma på datorn vs glasmontern på GitHub). Förklara varför git push svarar Everything up-to-date om du har ändrat i koden men glömt att staga och committa innan du kör push.
 
 **SVAR:**
 
