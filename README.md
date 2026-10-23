@@ -2,7 +2,7 @@
 
 ## För Godkänt (G): Vad är versionshantering och vad är den stora skillnaden mellan att spara en fil via editorns vanliga sparaknapp och att spara ändringar i Git?
 
-**SVAR**
+**SVAR:**
 
 - Versionshantering är ett system som sparar hela historiken över ett projekt. Så man kan se vad som har ändrats, när det har ändrats och varför. Man kan gå tillbaka till tidigare versioner och enkelt sammarbeta med andra.
 
@@ -10,7 +10,7 @@
 
 ## För Väl Godkänt (VG): Förklara vad som menas med att Git sparar en tidslinje av frysta ögonblicksbilder (commits). Vad bevisar det faktum att du när som helst kan klicka på din allra första commit på GitHub och fortfarande se alla tre TODO kvar i koden, trots att filen på din dator ser helt annorlunda ut idag?
 
-**SVAR**
+**SVAR:**
 
 - Git sparar projeket som en tidslinje av commits. Varje commit är som en frusen ögonblicksbild av alla filer vid ett visst tillfälle. Nya ändringar läggs till som nya commits ovanpå de gamla i stället för att skriva över dem.
 
@@ -20,7 +20,7 @@
 
 ## För Godkänt (G): Beskriv vad kommandona git status, git add och git commit gör i det dagliga arbetsflödet och när du kör dem.
 
-**SVAR**
+**SVAR:**
 
 - git status: Visar vilka filer som är ändrade, nya filer eller filer som redan är förberädda för commit.
 
@@ -30,7 +30,7 @@
 
 ## För Väl Godkänt (VG): Förklara relationen mellan arbetsytan (arket på skrivbordet), staging (kuvertet) och commit (arkivlådan). Förklara också varför Git protesterar med no changes added to commit om man har ändrat filen i editorn och försöker köra git commit direkt utan git add.
 
-**SVAR**
+**SVAR:**
 
 - Arbetsytan är arket på skrivbordet där jag redigerar mina filer, staging är kuvertet där jag lägger dem ändringar jag vill skicka med och commit är som arkivlådan där kuvertet med arket sparas permanent.
 
@@ -40,7 +40,7 @@
 
 # För Godkänt (G): Vad är skillnaden mellan mappen på din dator och repot på GitHub, och vad gör kommandot git push?
 
-**SVAR**
+**SVAR:**
 
 - Mappen på min dator är mitt lokala repo, filerna jag arbetar med och sparar commits. Repot på GitHub är en kopia som ligger online som andra kan se och ta del av.
 
@@ -48,7 +48,7 @@
 
 # För Väl Godkänt (VG): Förklara konceptet med de två rummen / minnesytorna (lådan hemma på datorn vs glasmontern på GitHub). Förklara varför git push svarar Everything up-to-date om du har ändrat i koden men glömt att staga och committa innan du kör push.
 
-**SVAR**
+**SVAR:**
 
 - Det finns två separata ytor, lådan hemma där jag jobbar och sparar mina commits. Och glasmontern på GitHub där det jag skickat upp visas för andra som har tillgång till online repot. De hör ihop men är helt åtskilda, inget når glasmontern fören jag skickat det med git push.
 
